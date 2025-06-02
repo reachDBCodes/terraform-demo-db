@@ -1,7 +1,7 @@
 
 project_id      = "deft-reporter-378208"
 gcp_sa_key_path = "gcp-sa-key.json"
-zone            = "europe-west3"
+region            = "europe-west3"
 
 /*
 The terraform.tfvars file is used to set variable values that your Terraform configuration expects.
